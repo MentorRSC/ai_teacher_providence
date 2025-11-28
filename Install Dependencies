@@ -1,0 +1,5 @@
+pip install -r requirements.txt
+
+# For Windows users, may need:
+pip install pipwin
+pipwin install pyaudio
